@@ -1,4 +1,4 @@
-# SimpleActsAsList
+# SimpleActsAsList [![Build Status](https://travis-ci.org/redu/simple_acts_as_list.png?branch=master)](https://travis-ci.org/redu/simple_acts_as_list) [![Dependency Status](https://gemnasium.com/redu/simple_acts_as_list.png)](https://gemnasium.com/redu/simple_acts_as_list)
 
 Provides very simple list behavior.
 Based on [acts_as_list gem](https://github.com/swanandp/acts_as_list).
